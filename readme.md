@@ -21,4 +21,4 @@ This project is a real-time location tracking application using Node.js, Express
 1. Clone the repository:
 
    ```bash
-   git clone <git@github.com:Mohammad-Parwez/Location_Tracking-Project.git>
+   git clone <>
